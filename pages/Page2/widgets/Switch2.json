@@ -22,7 +22,7 @@
     "isDisabled": false,
     "key": "c3qr621nh9",
     "isDeprecated": false,
-    "rightColumn": 47,
+    "rightColumn": 49,
     "onChange": "{{showAlert('Enviar Mais Requisiçoes De Acesso!', 'success');}}",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "tz5rqhldhw",

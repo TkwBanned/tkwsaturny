@@ -39,9 +39,11 @@
     "isLoading": false,
     "mobileTopRow": 23,
     "responsiveBehavior": "hug",
+    "originalTopRow": 73,
     "disabledWhenInvalid": false,
     "borderRadius": "0.375rem",
     "mobileLeftColumn": 23,
+    "originalBottomRow": 77,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER"
 }
