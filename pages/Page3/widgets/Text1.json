@@ -19,7 +19,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 9,
+    "leftColumn": 6,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -30,7 +30,7 @@
     "text": "{{`<span style=\"color: #41087b;\">Total Criador Do Painel Insta Hack Pro<\/span>`}}",
     "key": "c0cw1mggax",
     "isDeprecated": false,
-    "rightColumn": 57,
+    "rightColumn": 62,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "arpbvfsrpa",
