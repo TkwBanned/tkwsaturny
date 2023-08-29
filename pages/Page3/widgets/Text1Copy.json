@@ -19,7 +19,7 @@
     "fontFamily": "Poppins",
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 6,
+    "leftColumn": 10,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -30,7 +30,7 @@
     "text": "{{`<span style=\"color: #ff0000;\">Obrigado Aos Que Compraram <\/span>`}}",
     "key": "c0cw1mggax",
     "isDeprecated": false,
-    "rightColumn": 56,
+    "rightColumn": 60,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "0rbwqm30hx",
