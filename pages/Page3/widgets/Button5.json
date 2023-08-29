@@ -22,7 +22,7 @@
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 5,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
-    "text": "Aperte ",
+    "text": "Aperte",
     "isDisabled": false,
     "key": "rw0nwo4pnx",
     "isDeprecated": false,
