@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 35,
     "widgetName": "Button1",
-    "onClick": "{{showAlert('Ataque De Acesso Iniciado!', 'success');}}",
+    "onClick": "{{showAlert('Ataque De Acesso Iniciado!', 'success');\nresetWidget(\"Input1\", true);}}",
     "buttonColor": "#ff0000",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
