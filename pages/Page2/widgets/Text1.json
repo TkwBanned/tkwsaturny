@@ -19,7 +19,7 @@
     "fontFamily": "Rubik",
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 11,
+    "leftColumn": 9,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "borderRadius"},
@@ -30,7 +30,7 @@
     "text": "       Digite o {{`'<span style=\"color:red;\">@username<\/span>'`}} do instagram que deseja acessar!",
     "key": "j5k2u1a13w",
     "isDeprecated": false,
-    "rightColumn": 55,
+    "rightColumn": 53,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "y31lc5phni",
