@@ -22,7 +22,7 @@
     "isDisabled": false,
     "key": "c3qr621nh9",
     "isDeprecated": false,
-    "rightColumn": 46,
+    "rightColumn": 54,
     "onChange": "{{showAlert('Esconder Localização Ao Acessar!', 'success');}}",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "6faq437f0h",
