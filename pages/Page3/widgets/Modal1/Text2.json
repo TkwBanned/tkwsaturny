@@ -17,7 +17,7 @@
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "dynamicTriggerPathList": [],
-    "leftColumn": 14,
+    "leftColumn": 11,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -28,7 +28,7 @@
     "text": "CRIADOR DO PAINEL ",
     "key": "c0cw1mggax",
     "isDeprecated": false,
-    "rightColumn": 54,
+    "rightColumn": 51,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "y8axnfww7s",
