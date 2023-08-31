@@ -13,27 +13,44 @@
     "mobileRightColumn": 17,
     "animateLoading": true,
     "parentColumnSpace": 6.84375,
-    "dynamicTriggerPathList": [{"key": "menuItems.menuItem1.onClick"}],
+    "dynamicTriggerPathList": [
+        {"key": "menuItems.menuItem1.onClick"},
+        {"key": "menuItems.menuItem63p0fszv6l.onClick"}
+    ],
     "leftColumn": 0,
-    "dynamicBindingPathList": [],
+    "dynamicBindingPathList": [{"key": "menuItems.menuItem63p0fszv6l.iconColor"}],
     "isDisabled": false,
     "key": "i35zdpftno",
     "isDeprecated": false,
     "rightColumn": 15,
     "menuVariant": "SECONDARY",
     "widgetId": "jrauyzud8j",
-    "menuItems": {"menuItem1": {
-        "backgroundColor": "#ff0000",
-        "onClick": "{{navigateTo('Page3', {}, 'SAME_WINDOW');}}",
-        "widgetId": "",
-        "iconColor": "#ffffff",
-        "index": 0,
-        "label": "Informações",
-        "id": "menuItem1",
-        "isVisible": true,
-        "isDisabled": false,
-        "textColor": "#f4f4f5"
-    }},
+    "menuItems": {
+        "menuItem1": {
+            "backgroundColor": "#ff0000",
+            "onClick": "{{navigateTo('Page3', {}, 'SAME_WINDOW');}}",
+            "widgetId": "",
+            "iconColor": "#ffffff",
+            "index": 0,
+            "label": "Informações",
+            "id": "menuItem1",
+            "isVisible": true,
+            "isDisabled": false,
+            "textColor": "#f4f4f5"
+        },
+        "menuItem63p0fszv6l": {
+            "backgroundColor": "#ff0000",
+            "onClick": "{{navigateTo('Page4', {}, 'SAME_WINDOW');}}",
+            "widgetId": "cys1hu368x",
+            "iconColor": "{{appsmith.theme.colors.backgroundColor}}",
+            "index": 1,
+            "id": "menuItem63p0fszv6l",
+            "label": "Seguidores",
+            "isDisabled": false,
+            "isVisible": true,
+            "textColor": "#f4f4f5"
+        }
+    },
     "isVisible": true,
     "label": "Abrir Menu ",
     "version": 1,

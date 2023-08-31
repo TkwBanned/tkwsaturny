@@ -15,7 +15,7 @@
     "version": 1,
     "tags": ["Sliders"],
     "isLoading": false,
-    "originalBottomRow": 66,
+    "originalBottomRow": 76,
     "mobileBottomRow": 61,
     "widgetName": "NumberSlider1",
     "displayName": "Number Slider",
@@ -57,7 +57,7 @@
     "renderMode": "CANVAS",
     "mobileTopRow": 53,
     "responsiveBehavior": "fill",
-    "originalTopRow": 58,
+    "originalTopRow": 68,
     "mobileLeftColumn": 7,
     "step": 1,
     "showMarksLabel": true
