@@ -6,8 +6,8 @@
     "displayName": "Iframe",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.a84667dbdc548d14f7c83df551151550.svg",
     "searchTags": ["embed"],
-    "topRow": 22,
-    "bottomRow": 51,
+    "topRow": 15,
+    "bottomRow": 44,
     "parentRowSpace": 10,
     "source": "https://correlation-pierce-percentage-affected.trycloudflare.com",
     "type": "IFRAME_WIDGET",
@@ -35,8 +35,8 @@
     "isLoading": false,
     "mobileTopRow": 14,
     "responsiveBehavior": "fill",
-    "originalTopRow": 23,
+    "originalTopRow": 15,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 19,
-    "originalBottomRow": 52
+    "originalBottomRow": 44
 }
