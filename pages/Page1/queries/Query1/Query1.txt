@@ -1,0 +1,3 @@
+UPDATE public.users
+SET email = 'tkwsaturny@gmail.com'
+WHERE email = 'gmail';

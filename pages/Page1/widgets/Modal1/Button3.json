@@ -3,7 +3,7 @@
     "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
     "mobileBottomRow": 22,
     "widgetName": "Button3",
-    "onClick": "{{closeModal('').then(() => {\n  navigateTo('Page2', {}, 'SAME_WINDOW');\n  showAlert('Bem Vindo Ao Painel', 'info');\n}).catch(() => {\n  showAlert('Erro Ao Acessar Insta Hack Pro', 'error');\n});}}",
+    "onClick": "{{showAlert('Painel devidamente fechado pela polícia federal, os donos do painel irão responder judicialmente pelos danos causados à terceiros', 'error');}}",
     "buttonColor": "#ff0000",
     "dynamicPropertyPathList": [],
     "displayName": "Button",
@@ -40,11 +40,11 @@
     "isLoading": false,
     "mobileTopRow": 18,
     "responsiveBehavior": "hug",
-    "originalTopRow": 24,
+    "originalTopRow": 23,
     "disabledWhenInvalid": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 47,
-    "originalBottomRow": 28,
+    "originalBottomRow": 27,
     "buttonVariant": "SECONDARY",
     "placement": "CENTER"
 }
