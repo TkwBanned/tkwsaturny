@@ -3,7 +3,7 @@
     "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
     "mobileBottomRow": 22,
     "widgetName": "Button3",
-    "onClick": "",
+    "onClick": "{{navigateTo('Page2', {}, 'SAME_WINDOW');}}",
     "buttonColor": "#ff0000",
     "dynamicPropertyPathList": [],
     "displayName": "Button",
